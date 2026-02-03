@@ -1,22 +1,27 @@
-# 雅思学术阅读文章库 (IELTS Reading Library)
+# 📘 雅思学术阅读与批判性思维库 (IELTS Reading Hub)
 
-> **目标**：通过精读外刊，提升雅思阅读速度、词汇量及批判性思维。
-
----
-
-## 📂 文章分类索引
-
-| 分类 | 推荐文章 | 更新日期 | 重点训练 |
-| :--- | :--- | :--- | :--- |
-| **Science** | [AI与未来教育](./Science/AI-Education.md) | 2024-03-01 | 同义替换 (Paraphrase) |
-| **History** | [古代灌溉系统](./Social/Ancient-Irrigation.md) | 2024-03-05 | 逻辑连接词 |
-| **Economics** | [循环经济的崛起](./Eco/Circular-Economy.md) | 2024-03-10 | 批判性思考 |
+> **Teacher's Mission**: 帮助学生通过地道外刊精读，掌握同义改写（Paraphrasing）与批判性思考能力。
 
 ---
 
-## 🛠 使用说明 (For Students)
-1. **精读 (Intensive Reading)**：阅读 Markdown 格式文章，注意加粗词汇。
-2. **互动 (Interaction)**：在每篇文章下方的 **Issues** 区提交您的读后感。
-3. **练习 (Exercise)**：完成文章末尾的 Critical Thinking 小练习。
+## 📂 文章分类 (Categories)
+点击下方图标进入对应话题的文章列表：
+
+* 🔬 **[Science & Technology](./science/)** — *地热能、AI、航天、生物医学*
+* 🌍 **[Environment & Nature](./environment/)** — *气候变化、野生动物保护、可持续发展*
+* 🏛️ **[Society & History](./social/)** — *教育政策、城市化、考古发现*
+* 💹 **[Economics & Business](./eco/)** — *全球化、消费心理、市场趋势*
 
 ---
+
+## 📝 学生参与指南 (How to Use)
+1. **选择文章**：进入上述文件夹，点击文章标题开始阅读。
+2. **提交练习**：
+    * 阅读正文并完成文末的 **Paraphrase Bank**。
+    * 在文章对应的 [Issues] 链接下留言回答 **Critical Thinking** 问题。
+3. **词汇打卡**：欢迎在讨论区分享你学到的 3 个生词。
+
+---
+
+## 📊 学习进度
+*当前库中文章总数：1 篇 (正在持续更新中...)*

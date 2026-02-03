@@ -1,0 +1,37 @@
+name: Auto Update Reading List
+
+on:
+  push:
+    paths:
+      - 'science/**'
+      - 'environment/**'
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Generate Science Index
+        run: |
+          echo "# 🔬 Science 文章列表" > science/README.md
+          echo "" >> science/README.md
+          echo "> 这里的文章将自动更新，请点击标题开始练习。" >> science/README.md
+          echo "" >> science/README.md
+          echo "| 文章标题 | 阅读与练习链接 | 讨论区 |" >> science/README.md
+          echo "| :--- | :--- | :--- |" >> science/README.md
+          for file in science/*.md; do
+            if [[ "$file" != "science/README.md" ]]; then
+              filename=$(basename "$file" .md)
+              echo "| $filename | [点击阅读](./$filename.md) | [去 Issues 提问](../../issues) |" >> science/README.md
+            fi
+          done
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "自动更新文章索引列表" || exit 0
+          git push

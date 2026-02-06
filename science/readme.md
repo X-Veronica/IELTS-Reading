@@ -4,13 +4,13 @@
 
 | 文章标题 (Article Title) | 难度 (Difficulty) | 重点词汇/考点 | 更新日期 |
 | :--- | :--- | :--- | :--- |
-| [地热能：冬季取暖新选择](./geothermal-energy.md) | ⭐⭐⭐ | Subterranean, Substitution | 2024-03-01 |
+| [地热能：冬季取暖新选择](./geothermal-energy.md) | ⭐⭐⭐ | Subterranean, Substitution | 2026-02-03 |
 | [在此输入新文章标题](./你的文件名.md) | ⭐⭐ | 核心词汇 | 2024-xx-xx |
 
 ---
 ### 💡 学习建议
 1. **精读全文**：注意文中加粗的雅思核心词汇。
-2. **完成练习**：每篇文章末尾都有配套的 Critical Thinking 题目。
-3. **提交讨论**：点击页面顶部的 **Issues** 提交你的看法。
+2. **完成练习**：每篇文章末尾都有配套的Critical thinking / Vocabulary 题目。
+3. **提交练习**：前往作业区提交你的答案。
 
 [⬅️ 返回主目录](../README.md)

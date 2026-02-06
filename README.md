@@ -7,10 +7,10 @@
 ## 📂 文章分类 (Categories)
 点击下方图标进入对应话题的文章列表：
 
-* 🔬 **[Science & Technology](./science/)** — *地热能、AI、航天、生物医学*
-* 🌍 **[Environment & Nature](./environment/)** — *气候变化、野生动物保护、可持续发展*
-* 🏛️ **[Society & History](./social/)** — *教育政策、城市化、考古发现*
-* 💹 **[Economics & Business](./eco/)** — *全球化、消费心理、市场趋势*
+* 🔬 **[Science & Technology](./science/)** — *AI、航天、生物医学等科技相关*
+* 🌍 **[Environment & Nature](./environment/)** — *气候变化、野生动物保护、可持续发展等相关*
+* 🏛️ **[Society & History](./social/)** — *教育政策、城市化、考古发现等相关*
+* 💹 **[Economics & Business](./eco/)** — *全球化、消费心理、市场趋势等相关*
 
 ---
 

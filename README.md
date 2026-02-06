@@ -8,9 +8,10 @@
 点击下方图标进入对应话题的文章列表：
 
 * 🔬 **[Science & Technology](./science/)** — *AI、航天、生物医学等科技相关*
-* 🌍 **[Environment & Nature](./environment/)** — *气候变化、野生动物保护、可持续发展等相关*
-* 🏛️ **[Society & History](./social/)** — *教育政策、城市化、考古发现等相关*
-* 💹 **[Economics & Business](./eco/)** — *全球化、消费心理、市场趋势等相关*
+* 🌍 **[Environment & Nature](./nature/)** — *气候变化、野生动物保护、可持续发展等相关*
+* 🏛️ **[Society & History](./society&history/)** — *教育政策、城市化、考古发现等相关*
+* 💹 **[Economics & Business](./economics & business/)** — *全球化、消费心理、市场趋势等相关*
+* 💹 **[others](./others/)** — *全球化、消费心理、市场趋势等相关*
 
 ---
 

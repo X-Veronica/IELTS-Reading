@@ -5,7 +5,7 @@
 | 文章标题 (Article Title) | 难度 | 核心话题 (Topic) | 更新日期 |
 | :--- | :--- | :--- | :--- |
 | 🧠 [认知洗牌法：助眠新招](./cognitive-shuffle.md) | ⭐⭐⭐ | 心理学/睡眠健康 | 2026-02-07 |
-| 🏫 [学生心理健康挑战](./mental-health-china.md) | ⭐⭐⭐ | Left-behind children, Exam-oriented | 2026-02-07 |
+| 🏫 [学生心理健康挑战](./mental-health-china.md) | ⭐⭐⭐ | 留守儿童/应试导向 | 2026-02-07 |
 
 ---
 

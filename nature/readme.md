@@ -6,6 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | 🌊 [渴望碳排放的海洋 (Hungry Seas)](./hungry-seas.md) | ⭐⭐⭐⭐ | Marine Snow / Carbon Cycle | 2026-02-07 |
 | 🎗️ [癌症预防的科学：38%的希望](./cancer-prevention.md) | ⭐⭐⭐⭐ | Oncology / Risk Factors | 2026-02-17 |
+| 🍵 [绿茶 vs 红茶：哪种更有益？](./tea-health-benefits.md) | ⭐⭐⭐ | Nutrition / Health | 2026-02-17 |
 | 🦌 [在此输入下一篇自然类文章](./你的文件名.md) | 待定 | 待定 | 2026-xx-xx |
 
 ---

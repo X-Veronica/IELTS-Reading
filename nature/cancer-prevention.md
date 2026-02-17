@@ -25,9 +25,9 @@ Although there is cause for optimism, some types of cancer remain far less amena
 
 ---
 
-## 🧠 雅思进阶练习 (IELTS Reading Practice)
+## 🧠 IELTS Reading Practice
 
-### 1. Paraphrase Bank (同义词替换)
+### 1. Paraphrase Bank (Vocabulary Building)
 *在文中找到与下列定义相对应的词或短语（注意：答案均为文中原词）：*
 1. **Rare or infrequent**: [________________] (Hint: 4 words)
 2. **Substances that cause cancer**: [________________]
@@ -35,10 +35,10 @@ Although there is cause for optimism, some types of cancer remain far less amena
 4. **Responsive to or can be influenced by**: [________________]
 5. **To solve or explain a complicated subject**: [________________]
 
-### 2. Writer's View (批判性思维)
+### 2. Writer's View (Critical thinking)
 * **Question A**: The study claims 38% of cancers are preventable, but the authors suggest the "real figure may be somewhat higher." Based on the text, why might the initial figure be an underestimation?
 * **Question B**: Look at the case of Britain's 90% drop in cervical cancer. In your opinion, should vaccines for preventable cancers be mandatory for all children? Why or why not?
 
-### 3. Issue Discussion (口语 Part 3 模拟)
+### 3. Issue Discussion (Speaking part 3 Simulation)
 **Topic**: Public Health vs. Individual Freedom
 > **"Some people argue that since many cancers are caused by lifestyle choices like smoking or drinking, these individuals should pay more for their medical treatment than those with genetic illnesses. To what extent do you agree?"**

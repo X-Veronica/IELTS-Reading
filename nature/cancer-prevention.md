@@ -7,7 +7,7 @@
 ## 📄 原文阅读 (Full Article)
 
 > [!TIP]
-> **PDF 下载地址**：[点击此处下载文章 PDF 原件](./TE-cancers preventable.pdf) (包含原始数据图表)
+> **PDF 下载地址**：[点击此处下载文章 PDF 原件](./TE-cancers%20preventable.pdf) (包含原始数据图表)
 
 SCIENTISTS HAVE long known that some cancers have preventable causes. But reliable estimates of how many, exactly, have been few and far between. In a report published in *Nature Medicine* on February 3rd, a team led by researchers at the International Agency for Research on Cancer at the World Health Organisation provide the most comprehensive figures to date.
 

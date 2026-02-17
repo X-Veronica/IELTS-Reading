@@ -1,6 +1,6 @@
 # 📘 雅思学术阅读与批判性思维库 (IELTS Reading Hub)
 
-> **Teacher's Mission**: 帮助学生通过地道外刊精读，掌握同义改写（Paraphrasing）与批判性思考能力。
+>帮助学生通过地道外刊精读，掌握同义改写（Paraphrasing）与批判性思考能力。
 
 ---
 

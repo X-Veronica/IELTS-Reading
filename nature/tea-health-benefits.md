@@ -27,7 +27,7 @@ Black tea is not without its own benefits. It is richer than green tea in benefi
 
 ## 🧠 雅思进阶练习 (IELTS Reading Practice)
 
-### 1. Paraphrase Bank (同义词替换)
+### 1. Paraphrase Bank (Vocabulary Building)
 *在文中找到与下列定义相对应的词或短语（注意：答案均为文中原词）：*
 1. **Lifted or supported (by positive reports)**: [________________] 
 2. **To improve or increase:**: [________________] 
@@ -35,11 +35,11 @@ Black tea is not without its own benefits. It is richer than green tea in benefi
 4. **To change from one form to another**: [________________] 
 5. **A substance that has no therapeutic effect, used as a control in testing**: [________________] 
 
-### 2. Writer's View (批判性思维)
+### 2. Writer's View (Critical thinking)
 * **Question A**: According to the "successful ageing" health index mentioned in the text, in which specific areas did green-tea drinkers score higher than black-tea drinkers?
 * **Question B**: Given that both green and black teas originate from the same plant, why do their antioxidant compositions differ?
   
-### 3. Issue Discussion (口语 Part 3 模拟)
+### 3. Issue Discussion (Speaking part 3 Simulation)
 **Topic**: Health Habits and Lifestyle
 > **"In many cultures, drinking tea is a traditional habit. In the modern world, do you think traditional diets are being replaced by unhealthy fast food and sugary drinks? How can we encourage young people to choose healthier options like green tea?"**
 
